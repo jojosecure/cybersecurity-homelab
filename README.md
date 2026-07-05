@@ -23,6 +23,7 @@ This repository includes supporting documentation for the major tools, concepts,
 | [Home Lab Roadmap](notes/lab-roadmap.md)                   | Outlines planned phases for infrastructure, security tooling, local AI, and future improvements        |
 | [Docker Compose Examples](docker-compose/README.md)        | Explains how sanitized Docker Compose examples will be documented                                      |
 | [Screenshots](screenshots/README.md)                       | Describes how screenshots should be reviewed and sanitized before upload                               |
+| [Common Docker Commands](docs/common-docker-commands.md) | Lists common Docker and Docker Compose commands used to manage home lab services |
 
 ## Lab Goals
 
