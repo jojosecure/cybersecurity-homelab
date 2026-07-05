@@ -31,6 +31,7 @@ This repository includes supporting documentation for the major tools, concepts,
 | [NAS Plan](docs/nas-plan.md) | Outlines planned NAS use cases for storage, backups, self-hosted services, and local AI support |
 | [Security Tooling Plan](docs/security-tooling-plan.md) | Outlines planned cybersecurity tools for vulnerability scanning, logging, monitoring, and investigation workflows |
 | [Lab Inventory](docs/lab-inventory.md) | Tracks hardware, software, services, planned tools, status, and purpose across the home lab |
+| [Changelog](CHANGELOG.md) | Tracks major repository updates, documentation changes, and planned improvements |
 
 ## Lab Goals
 
