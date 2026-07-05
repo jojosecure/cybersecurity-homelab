@@ -27,6 +27,7 @@ This repository includes supporting documentation for the major tools, concepts,
 | [Local AI Agent Plan](docs/local-ai-agent-plan.md) | Outlines future plans for building a local AI agent for automation, documentation, troubleshooting, and security workflows |
 | [Backup and Recovery Plan](docs/backups-and-recovery-plan.md) | Documents backup goals, recovery considerations, and resiliency planning for the home lab |
 | [Lessons Learned](notes/lessons-learned.md) | Tracks key takeaways, troubleshooting notes, and learning points from building the lab |
+| [Proxmox Plan](docs/proxmox-plan.md) | Outlines planned Proxmox use cases for virtualization, cybersecurity practice, and infrastructure learning |
 
 ## Lab Goals
 
