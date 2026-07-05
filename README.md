@@ -7,6 +7,31 @@ This repository documents my personal cybersecurity and infrastructure home lab.
 
 The lab is designed to help me practice deploying, securing, monitoring, and documenting systems in a controlled local environment.
 
+## Repository Structure
+```text
+cybersecurity-homelab/
+├── README.md
+├── SECURITY.md
+├── .gitignore
+├── docs/
+│   ├── uptime-kuma-setup.md
+│   └── homepage-setup.md
+├── notes/
+│   └── lab-roadmap.md
+└── docker-compose/
+    └── README.md
+```
+
+## Folder Overview
+| Folder/File       | Purpose                                                                       |
+| ----------------- | ----------------------------------------------------------------------------- |
+| `README.md`       | Main overview of the home lab, goals, tools, and current projects             |
+| `SECURITY.md`     | Security policy and safe documentation practices                              |
+| `.gitignore`      | Prevents local files, secrets, logs, and environment files from being tracked |
+| `docs/`           | Setup guides and walkthroughs for tools installed in the lab                  |
+| `notes/`          | Roadmaps, planning notes, lessons learned, and lab ideas                      |
+| `docker-compose/` | Sanitized Docker Compose examples and Docker-related documentation            |
+
 ## Lab Goals
 
 * Learn how to deploy and manage local applications
