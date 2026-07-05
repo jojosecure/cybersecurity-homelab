@@ -8,6 +8,22 @@ This repository documents my personal cybersecurity and infrastructure home lab.
 
 The lab is designed to help me practice deploying, securing, monitoring, and documenting systems in a controlled local environment.
 
+## Documentation Index
+
+This repository includes supporting documentation for the major tools, concepts, and design decisions used in my home lab.
+
+| Document                                                   | Description                                                                                            |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Uptime Kuma Setup](docs/uptime-kuma-setup.md)             | Documents how Uptime Kuma is used for monitoring devices, services, and uptime in the lab              |
+| [Homepage Setup](docs/homepage-setup.md)                   | Explains how Homepage is used as a central dashboard for self-hosted services                          |
+| [Docker Basics](docs/docker-basics.md)                     | Covers basic Docker concepts and why Docker is used in the lab                                         |
+| [Security Considerations](docs/security-considerations.md) | Outlines security principles, secrets management, exposure risks, and local AI security considerations |
+| [Network Overview](docs/network-overview.md)               | Provides a high-level overview of the home lab network without exposing sensitive details              |
+| [Home Lab Diagram](docs/lab-diagram.md)                    | Shows a sanitized visual architecture of the home lab using placeholder names                          |
+| [Home Lab Roadmap](notes/lab-roadmap.md)                   | Outlines planned phases for infrastructure, security tooling, local AI, and future improvements        |
+| [Docker Compose Examples](docker-compose/README.md)        | Explains how sanitized Docker Compose examples will be documented                                      |
+| [Screenshots](screenshots/README.md)                       | Describes how screenshots should be reviewed and sanitized before upload                               |
+
 ## Lab Goals
 
 * Learn how to deploy and manage local applications
