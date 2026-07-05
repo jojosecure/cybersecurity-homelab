@@ -29,6 +29,7 @@ This repository includes supporting documentation for the major tools, concepts,
 | [Lessons Learned](notes/lessons-learned.md) | Tracks key takeaways, troubleshooting notes, and learning points from building the lab |
 | [Proxmox Plan](docs/proxmox-plan.md) | Outlines planned Proxmox use cases for virtualization, cybersecurity practice, and infrastructure learning |
 | [NAS Plan](docs/nas-plan.md) | Outlines planned NAS use cases for storage, backups, self-hosted services, and local AI support |
+| [Security Tooling Plan](docs/security-tooling-plan.md) | Outlines planned cybersecurity tools for vulnerability scanning, logging, monitoring, and investigation workflows |
 
 ## Lab Goals
 
