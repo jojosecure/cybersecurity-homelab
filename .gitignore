@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+tokens/
+*.key
+*.pem
+*.crt
+
+# Local configuration
+config.local.yml
+config.local.yaml
+*.local
+*.local.yml
+*.local.yaml
+
+# Logs
+*.log
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node / web projects
+node_modules/
+npm-debug.log*
+
+# Docker overrides and local files
+docker-compose.override.yml
+
+# Editor settings
+.vscode/
+.idea/
