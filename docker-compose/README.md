@@ -23,11 +23,17 @@ Before uploading any Docker Compose file, I will review it for sensitive informa
 
 ## Planned Examples
 
-* Uptime Kuma
+* Uptime Kuma (Done)
 * Homepage
 * Local AI tools
 * Future cybersecurity tools
 * Monitoring and logging tools
+
+## Available Examples
+
+| File | Description |
+|---|---|
+| [uptime-kuma.example.yml](uptime-kuma.example.yml) | Sanitized Docker Compose example for running Uptime Kuma |
 
 ## Best Practices
 
